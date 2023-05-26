@@ -5,7 +5,7 @@ tags: vue
 categories: 技术
 ---
 
-![m3zjx1](F:\GitDown\hexo\source\_posts\功能实现（vue-clipboard3）.assets\m3zjx1.png)
+![](https://w.wallhaven.cc/full/m3/wallhaven-m3zjx1.jpg)
 
 * 安装 `vue-clipboard3`
 
