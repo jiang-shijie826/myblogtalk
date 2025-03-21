@@ -1,3 +1,10 @@
+---
+title: 利用spark同步Hbase数据到ElasticSearch
+date: 2025-03-21 09:52:17
+tags: 大数据
+categories: 技术
+---
+
 ## 利用spark同步Hbase数据到ElasticSearch
 
 ***
