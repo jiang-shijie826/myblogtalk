@@ -24,3 +24,11 @@ npx hexo deploy #将.deploy目录部署到GitHub
 npx hexo help  # 查看帮助
 npx hexo version  #查看Hexo的版本
 ```
+
+> 网络图片不显示在标题下面添加以下内容
+
+```html
+<meta name="referrer" content="no-referrer"/>
+```
+
+![image-20250321103102148](Hexo部署步骤/image-20250321103102148.png)

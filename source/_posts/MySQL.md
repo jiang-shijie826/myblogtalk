@@ -5,6 +5,8 @@ tags: MySQL
 categories: 数据库
 ---
 
+<meta name="referrer" content="no-referrer"/>
+
 **附录:**
 
 * **DQL**(Dimensional Query Language):数据查询语言DQL基本结构是由SELECT子句，FROM子句，WHERE子句组成的查询块：SELECT <字段名表>FROM <表或视图名>WHERE <查询条件>
