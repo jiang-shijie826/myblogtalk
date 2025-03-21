@@ -20,7 +20,7 @@ categories: 数据库
 
 MySQL5.5版本开始，默认使用InnoDB存储引擎，它擅长事务处理，具有崩溃恢复特性，在日常开发中使用广泛。下图是InnoDB架构图，左侧为内存结构，右侧为磁盘结构。
 
-![1](F:\GitDown\hexo\source\_posts\MySQL.assets\1.png)
+![1](MySQL/1.png)
 
 * 内存结构
 

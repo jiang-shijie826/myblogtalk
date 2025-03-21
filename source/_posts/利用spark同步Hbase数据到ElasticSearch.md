@@ -23,11 +23,11 @@ categories: 技术
 
 * Idea中安装Scala插件
 
-  ![image-20250320172431359](F:\GitDown\hexo\source\_posts\利用spark同步Hbase数据到ElasticSearch.assets\image-20250320172431359.png)
+  ![image-20250321100343192](利用spark同步Hbase数据到ElasticSearch/image-20250321100343192.png)
 
 * 新建Scala项目
 
-![image-20250320172304319](F:\GitDown\hexo\source\_posts\利用spark同步Hbase数据到ElasticSearch.assets\image-20250320172304319.png)
+![image-20250320172304319](利用spark同步Hbase数据到ElasticSearch/image-20250320172304319.png)
 
 * 在build.sbt中引入依赖,导入的依赖需要考虑兼容性
 
@@ -55,7 +55,7 @@ libraryDependencies += "org.scala-lang" % "scala-library" % "2.11.12"
 
 * 新建scala文件
 
-  ![image-20250320172907896](F:\GitDown\hexo\source\_posts\利用spark同步Hbase数据到ElasticSearch.assets\image-20250320172907896.png)
+  ![image-20250320172907896](利用spark同步Hbase数据到ElasticSearch/image-20250320172907896.png)
 
 * 编写文件
 
@@ -208,7 +208,7 @@ object HBaseToElasticsearchMultipleTables {
 
 * 打包文件 clean package
 
-![image-20250320173103194](F:\GitDown\hexo\source\_posts\利用spark同步Hbase数据到ElasticSearch.assets\image-20250320173103194.png)
+![image-20250320173103194](利用spark同步Hbase数据到ElasticSearch/image-20250320173103194.png)
 
 
 
@@ -272,4 +272,4 @@ hBaseConf.addResource("hbase-site.xml")
 
 ##### 7.ElasticSearch可以看到有定时任务的索引生成,可以看到执行的时间以及同步的数据量大小
 
-![image-20250320174118378](F:\GitDown\hexo\source\_posts\利用spark同步Hbase数据到ElasticSearch.assets\image-20250320174118378.png)
+![image-20250320174118378](利用spark同步Hbase数据到ElasticSearch/image-20250320174118378.png)

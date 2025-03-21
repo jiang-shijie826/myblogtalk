@@ -83,6 +83,6 @@ public class TestXml {
 }
 ```
 
-![image-20230320113703469](F:\GitDown\hexo\source\_posts\XML文件或者字符串转Bean对象.assets\image-20230320113703469.png)
+![image-20230320113703469](XML文件或者字符串转Bean对象/image-20230320113703469.png)
 图解：
-![image-20230320113646010](F:\GitDown\hexo\source\_posts\XML文件或者字符串转Bean对象.assets\image-20230320113646010.png)
+![image-20230320113646010](XML文件或者字符串转Bean对象/image-20230320113646010.png)
